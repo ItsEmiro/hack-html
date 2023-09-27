@@ -1,0 +1,60 @@
+main{
+    background-color: #93b5c9 ;
+    height: 100px;
+}
+
+#solo{
+    background-color: #ab2849 ;
+    height: 200px;
+    margin-bottom: 60px;
+}
+#primero{
+    background-color: #ab2849 ;
+    margin: auto;
+    height: 150px;
+    width: 90%;
+    
+
+}
+#segundo{ 
+    display: flex;
+    margin: auto ;
+    width: 90%;
+    
+}
+
+#segundo > section{
+    background-color: #ab2849 ;
+    height: 150px;
+    width: 90%;
+    margin: 20px 2px 20px 2px ;
+}
+#tercero {
+    background-color: #ab2849 ;
+    margin: auto;
+    height: 150px;
+    width: 90%;
+    
+
+}
+#cuarto{ 
+    display: flex;
+    margin: auto ;
+    width: 90%;
+    
+}
+
+#cuarto > section{
+    background-color: #ab2849 ;
+    height: 150px;
+    width: 90%;
+    margin: 20px 2px 60px 2px ;
+}
+footer{ 
+    background-color: #ab2849 ;
+    clear: both;
+    margin: auto;
+    height: 100px;
+    
+    
+}
