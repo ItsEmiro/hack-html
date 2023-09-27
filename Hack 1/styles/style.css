@@ -1,0 +1,27 @@
+main{
+    background-color: #93b5c9 ;
+    height: 100px;
+}
+
+#solo{
+    background-color: #ab2849 ;
+    height: 200px;
+}
+
+section{
+    background-color: #ab2849 ;
+    height: 100px;
+    width: 60%;
+    margin: 20px;
+    float: right;
+
+}
+
+footer{ 
+    background-color: #ab2849 ;
+    clear: both;
+    margin: auto;
+    height: 100px;
+    width: 90%;
+    padding: 10px;
+}
